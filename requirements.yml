@@ -1,5 +1,5 @@
 ---
-name: titanic
+name: dataset
 
 channels:
   - conda-forge
